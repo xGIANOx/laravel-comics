@@ -1,1 +1,19 @@
 @import '~bootstrap/scss/bootstrap';
+.jumbotron{
+    background-image: url('../../public/img/jumbotron.jpg');
+    height: 400px;
+    background-position: 30% 0%;
+}
+.comics_cards{
+    background-color: rgb(40, 40, 40);
+}
+.load_more{
+    width: fit-content; 
+}
+.comics_poster,
+.card{
+    height: 200px;
+    width: 150px;
+    margin: auto;
+
+}
